@@ -40,8 +40,9 @@ This dataset is publicly available and used for educational and analytical purpo
 -Use dashboards for executive-level decision-making
 -Apply analytical thinking in financial services context
 
-📊 Dashboard Preview
-![Overview](Dashboard1.png)
+## 📊 Dashboard Preview
+
+![Dashboard](Dashboard 1.png)
 
 📌 Future Improvements
 
