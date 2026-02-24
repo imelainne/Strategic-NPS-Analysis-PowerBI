@@ -27,7 +27,7 @@ Using Power BI and DAX, I designed a star schema data model and built an executi
 -Recent positive variation (+1.68) suggests short-term recovery
 -Structural risk if detractor growth continues
 
-##📂 Data Source
+## 📂 Data Source
 
 -Dataset: Net Promoter Score (NPS) for Financial Services
 -Source: Kaggle
